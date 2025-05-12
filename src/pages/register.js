@@ -201,7 +201,7 @@ export default function Register() {
                             className="h-4 w-4 border border-gray-600 bg-black text-white focus:ring-2 focus:ring-gray-500"
                         />
                         <label className="text-sm text-gray-400">
-                            I agree to Formation's <span className="underline">Terms of Use</span> and <span className="underline">Privacy Policy</span>
+                            I agree to Formation&#39;s <span className="underline">Terms of Use</span> and <span className="underline">Privacy Policy</span>
                         </label>
                     </div>
                     <button
